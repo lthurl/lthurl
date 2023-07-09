@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisette (she/her/hers) </h1>
-<p align="left"> I am a Master of Arts candidate in Columbia University's Quantitative Methods in the Social Sciences program. Currently, I am working as a research assistant at the New York State Psychiatric Institute working on TDCS and its effect on depression and anxiety. Using my background in psych, one of my current projects involves analyzing the effect the pandemic has had on rates of depression and anxiety in the United States.</p>
+<p align="left"> I am a Master of Arts graduate from Columbia University's Quantitative Methods in the Social Sciences program, going into my PhD Program of Clinical Psychology at Seattle Pacific University. Previously, I worked as a research assistant at the New York State Psychiatric Institute working on TDCS and its effect on depression and anxiety. Using my background in psych, my Masters Thesis involves analyzing the effect the pandemic has had on rates of depression and anxiety in the United States.</p>
 
 <br>
 <h4 align="center">Connect with me:</h4>
